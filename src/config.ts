@@ -13,10 +13,10 @@ export const NAV_ITEMS: NavItems = {
         path: '/tags',
         title: 'tags'
     },
-    media: {
-        path: '/media',
-        title: 'media'
-    },
+    // media: {
+    //     path: '/media',
+    //     title: 'media'
+    // },
     about: {
         path: '/about',
         title: 'about'
@@ -27,9 +27,9 @@ export const SITE = {
     // Your site's detail?
     name: 'RobertRedd',
     title: 'RobertRedd - My Personal Blog',
-    description: 'Crisp, minimal, personal blog theme for Astro',
-    url: 'https://astro-ink.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    description: "robertredd's personal blog build on Astro",
+    url: 'https://sensational-sopapillas-961977.netlify.app/',
+    githubUrl: 'https://github.com/robertredd1028/personal_blog',
     listDrafts: true
     // description ?
 }
